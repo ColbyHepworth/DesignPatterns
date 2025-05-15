@@ -1,0 +1,15 @@
+﻿# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# OS junk
+.DS_Store
+Thumbs.db
