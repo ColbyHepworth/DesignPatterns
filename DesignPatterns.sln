@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{E784CEDC-B380-4657-AADE-55757091306A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapters", "Chapters\Chapters.csproj", "{E784CEDC-B380-4657-AADE-55757091306A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
