@@ -1,14 +1,12 @@
-﻿# Rider
+# IDE and system files
 .idea/
-*.sln.iml
-
-# User-specific files
 *.user
 *.suo
 
-# Build results
-bin/
-obj/
+# Build artifacts
+**/bin/
+**/obj/
+*.iml
 
 # OS junk
 .DS_Store
